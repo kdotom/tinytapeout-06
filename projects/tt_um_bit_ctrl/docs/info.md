@@ -9,3 +9,4 @@ To test this project, apply a reset signal, cycle the clock several times and co
 ## External hardware
 
 GPIOs can be measured directly to test performance.
+
